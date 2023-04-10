@@ -1,9 +1,7 @@
-{
-  "A1": 60,
-  "A2": 60,
-  "A3": 60,
-  "A4": 60,
-  "A5": 60,
-  "A6": 60,
-  "A7": 60
-}
+[
+  { "assignment": 1, "Mark": 60 },
+  { "assignment": 2, "Mark": 60 },
+  { "assignment": 3, "Mark": 60 },
+  { "assignment": 4, "Mark": 60 },
+  { "assignment": 5, "Mark": 60 }
+]
