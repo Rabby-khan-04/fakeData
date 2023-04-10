@@ -1,0 +1,178 @@
+[
+  {
+    "_id": "6432f342a492b109822fb67f",
+    "company_logo": "https://i.ibb.co/h91Gj5h/Microsoft.png",
+    "job_title": "Web Developer",
+    "company_name": "Microsoft",
+    "job_type": "Remote",
+    "location": "Redmond, WA",
+    "job_timing": "Fulltime",
+    "salary": "$100,000 - $120,000",
+    "job_description": "Develop and maintain web applications using modern web technologies.",
+    "job_responsibility": [
+      "Design and implement new features",
+      "Collaborate with cross-functional teams",
+      "Write clean and maintainable code"
+    ],
+    "educational_requirements": "Bachelor's degree in Computer Science or related field",
+    "Experiences": "2+ years of experience in web development",
+    "contact_information": {
+      "phone": "+1-800-123-4567",
+      "email": "jobs@microsoft.com"
+    }
+  },
+  {
+    "_id": "6432f3429fe2a3ac32499e24",
+    "company_logo": "https://i.ibb.co/c80Ztzp/valorant.png",
+    "job_title": "DevOps Engineer",
+    "company_name": "Valorant",
+    "job_type": "Onsite",
+    "location": "Santa Clara, CA",
+    "job_timing": "Fulltime",
+    "salary": "$115,000 - $135,000",
+    "job_description": "Develop and maintain DevOps processes and tools for software development and deployment.",
+    "job_responsibility": [
+      "Design and implement new DevOps processes and tools",
+      "Collaborate with cross-functional teams",
+      "Ensure smooth and efficient software development and deployment"
+    ],
+    "educational_requirements": "Bachelor's degree in Computer Science or related field",
+    "Experiences": "3+ years of experience in DevOps",
+    "contact_information": {
+      "phone": "+1-800-123-4567",
+      "email": "jobs@valorant.com"
+    }
+  },
+  {
+    "_id": "6432f3425a2e4858f8214157",
+    "company_logo": "https://i.ibb.co/gPBQBK8/tesla.png",
+    "job_title": "Software Engineer",
+    "company_name": "Tesla",
+    "job_type": "Onsite",
+    "location": "Cupertino, CA",
+    "job_timing": "Part Time",
+    "salary": "$120,000 - $140,000",
+    "job_description": "Develop and maintain software applications using modern technologies.",
+    "job_responsibility": [
+      "Design and implement new features",
+      "Collaborate with cross-functional teams",
+      "Write clean and maintainable code"
+    ],
+    "educational_requirements": "Bachelor's degree in Computer Science or related field",
+    "Experiences": "3+ years of experience in software development",
+    "contact_information": {
+      "phone": "+1-800-123-4567",
+      "email": "jobs@tesla.com"
+    }
+  },
+  {
+    "_id": "6432f342d1ae932ff8995a08",
+    "company_logo": "https://i.ibb.co/0Kr2WCQ/google.png",
+    "job_title": "App Developer",
+    "company_name": "Google LLC",
+    "job_type": "Remote",
+    "location": "Mountain View, CA",
+    "job_timing": "Fulltime",
+    "salary": "$110,000 - $130,000",
+    "job_description": "Develop and maintain mobile applications for iOS and Android platforms.",
+    "job_responsibility": [
+      "Design and implement new features",
+      "Collaborate with cross-functional teams",
+      "Write clean and maintainable code"
+    ],
+    "educational_requirements": "Bachelor's degree in Computer Science or related field",
+    "Experiences": "2+ years of experience in app development",
+    "contact_information": {
+      "phone": "+1-800-123-4567",
+      "email": "jobs@google.com"
+    }
+  },
+  {
+    "_id": "6432f342871d51fbcb97ffbb",
+    "company_logo": "https://i.ibb.co/z2vvhJS/amazon.png",
+    "job_title": "Front-end Developer",
+    "company_name": "Amazon",
+    "job_type": "Onsite",
+    "location": "Seattle, WA",
+    "job_timing": "Part Time",
+    "salary": "$105,000 - $125,000",
+    "job_description": "Develop and maintain front-end web applications using modern web technologies.",
+    "job_responsibility": [
+      "Design and implement new features",
+      "Collaborate with cross-functional teams",
+      "Write clean and maintainable code"
+    ],
+    "educational_requirements": "Bachelor's degree in Computer Science or related field",
+    "Experiences": "2+ years of experience in front-end development",
+    "contact_information": {
+      "phone": "+1-800-123-4567",
+      "email": "jobs@amazon.com"
+    }
+  },
+  {
+    "_id": "6432f342ba96a50367f9abe1",
+    "company_logo": "https://i.ibb.co/VCVRTDc/meta.png",
+    "job_title": "Back-end Developer",
+    "company_name": "Meta",
+    "job_type": "Onsite",
+    "location": "Menlo Park, CA",
+    "job_timing": "Fulltime",
+    "salary": "$115,000 - $135,000",
+    "job_description": "Develop and maintain back-end web applications using modern technologies.",
+    "job_responsibility": [
+      "Design and implement new features",
+      "Collaborate with cross-functional teams",
+      "Write clean and maintainable code"
+    ],
+    "educational_requirements": "Bachelor's degree in Computer Science or related field",
+    "Experiences": "3+ years of experience in back-end development",
+    "contact_information": {
+      "phone": "+1-800-123-4567",
+      "email": "jobs@meta.com"
+    }
+  },
+  {
+    "_id": "6432f3420f74eed079f79670",
+    "company_logo": "https://i.postimg.cc/YqyYvtd4/netflix.png",
+    "job_title": "Full Stack Developer",
+    "company_name": "Netflix",
+    "job_type": "Remote",
+    "location": "Armonk, NY",
+    "job_timing": "Part Time",
+    "salary": "$110,000 - $130,000",
+    "job_description": "Develop and maintain full stack web applications using modern technologies.",
+    "job_responsibility": [
+      "Design and implement new features",
+      "Collaborate with cross-functional teams",
+      "Write clean and maintainable code"
+    ],
+    "educational_requirements": "Bachelor's degree in Computer Science or related field",
+    "Experiences": "3+ years of experience in full stack development",
+    "contact_information": {
+      "phone": "+1-800-123-4567",
+      "email": "jobs@netflix.com"
+    }
+  },
+  {
+    "_id": "6432f342c24ee0623792cd5a",
+    "company_logo": "https://i.ibb.co/6HLqPw5/airbnb.png",
+    "job_title": "Data Scientist",
+    "company_name": "Airbnb",
+    "job_type": "Remote",
+    "location": "Boston, MA",
+    "job_timing": "Part Time",
+    "salary": "$120,000 - $140,000",
+    "job_description": "Develop and maintain data science models and algorithms for business insights and decision making.",
+    "job_responsibility": [
+      "Design and implement new data science models and algorithms",
+      "Collaborate with cross-functional teams",
+      "Ensure accurate and actionable business insights"
+    ],
+    "educational_requirements": "Master's degree in Computer Science, Statistics or related field",
+    "Experiences": "3+ years of experience in data science",
+    "contact_information": {
+      "phone": "+1-800-123-4567",
+      "email": "jobs@air.com"
+    }
+  }
+]
