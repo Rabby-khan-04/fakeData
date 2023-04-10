@@ -1,7 +1,7 @@
 [
-  { "assignment": 1, "Mark": 60 },
-  { "assignment": 2, "Mark": 60 },
-  { "assignment": 3, "Mark": 60 },
-  { "assignment": 4, "Mark": 60 },
-  { "assignment": 5, "Mark": 60 }
+  { "No": "Assingment 1", "Mark": 60 },
+  { "No": "Assingment 2", "Mark": 60 },
+  { "No": "Assingment 3", "Mark": 60 },
+  { "No": "Assingment 4", "Mark": 60 },
+  { "No": "Assingment 5", "Mark": 60 }
 ]
